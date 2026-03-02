@@ -7,4 +7,4 @@ pip install streamlit
 
 pip install pandas scipy
 
-streamlit run app.py
+streamlit run "C:\Users\user\Desktop\Streamlit Project\app.py"
